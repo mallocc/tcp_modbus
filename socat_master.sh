@@ -1,0 +1,1 @@
+sudo socat PTY,link=/dev/virtualport_master,raw,echo=0 -

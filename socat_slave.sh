@@ -1,0 +1,1 @@
+sudo socat PTY,link=/dev/virtualport_slave,raw,echo=0 -
